@@ -1,6 +1,6 @@
 App to test if e-mail address is valid, using dig and telnet.
 
-Basic idea came from (https://youtu.be/qmIlg8qmVaQ)[https://youtu.be/qmIlg8qmVaQ]
+Basic idea came from [How to Check if an Email Address Exists (without sending anything)](https://youtu.be/qmIlg8qmVaQ])
 
 ## Pipenv
 
