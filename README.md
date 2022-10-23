@@ -1,5 +1,7 @@
 App to test if e-mail address is valid, using dig and telnet.
 
+Basic idea came from (https://youtu.be/qmIlg8qmVaQ)[https://youtu.be/qmIlg8qmVaQ]
+
 ## Pipenv
 
 Pipenv is a virtual enviroment, it makes it easy to record your dependencies.
